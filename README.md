@@ -45,6 +45,7 @@ Outras tags importantes
 
 `<h1>, <p>, <a>, <img>, <button>, <ul>, <li>, <div>, <form>, <input>, <script>, <style>`.
 
+
 Para mais informações sobre as tags, visite: [W3Schools](https://www.w3schools.com/tags/default.asp)
 
 ### 2 - O CSS
@@ -129,6 +130,8 @@ E dentro do arquivo estilos.css colocamos apenas o conteúdo do CSS:
 ### 2.2 - Algumas propriedades importantes
 #### Display (Block vs Inline)
 Os elementos do HTML, quando renderizados no navegador, podem comportar-se basicamente de duas maneiras diferentes no que diz respeito à maneira como eles interferem no documento como um todo: em bloco (block) ou em linha (inline). A propriedade que define isso é a `display`, tendo sendo valor `block` ou `inline`.
+
+
 Exemplo: [Display Property - W3Schools](https://www.w3schools.com/css/css_display_visibility.asp)
 
 #### Margins
@@ -140,7 +143,10 @@ Com CSS, você tem total controle sobre as margens. Existem propriedades para co
 -   `margin-bottom`
 -   `margin-left`
 
+
 Exemplo: [Margins Properties - W3Schools](https://www.w3schools.com/css/css_margin.asp)
+
+
 #### Paddings
 As propriedades  `padding`  são usadas para gerar espaçamento em volta do conteúdo de um elemento, dentro das bordas definidas.
 
@@ -150,9 +156,12 @@ Com CSS, você tem total controle sobre as margens. Existem propriedades para co
 -   `padding-bottom`
 -   `padding-left`
 
+
 Exemplo: [Padding Properties - W3Schools](https://www.w3schools.com/css/css_padding.asp)
 
+
 Para conhecer mais propriedades, visite: [W3Schools](https://www.w3schools.com/cssref/default.asp)
+
 
 ### 2.3 - Seletores
 #### Seletor de ID
@@ -315,7 +324,10 @@ Veja como aspectos do sistema grid Bootstrap funciona, através de diferentes di
   </tbody>
 </table>
 
+
 Para mais informações sobre o sistema Grid do Bootsrap, visite: [Sistema grid - Bootstrap](https://getbootstrap.com.br/docs/4.1/layout/grid/)
+
+
 Experimente em: [Bootstrap Grid Basic](https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
 
 
@@ -329,6 +341,12 @@ Nesse repositório, na pasta `site`, existe um exemplo de página, o [index2.htm
 
 ## Referências
 [Apostila "Desenvolvimento Web com HTML, CSS e Javascript" - Alura](https://www.caelum.com.br/download/caelum-html-css-javascript.pdf)
+
+
 [MDN Web Docs em português](https://developer.mozilla.org/pt-BR/)
+
+
 [W3Schools](https://www.w3schools.com/)
+
+
 [Site do Bootstrap em português](https://getbootstrap.com.br/)
