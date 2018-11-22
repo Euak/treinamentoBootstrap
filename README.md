@@ -326,3 +326,9 @@ Para a lista completa de componentes, visite: [Components - Bootstrap](https://g
 
 ## Para entender na prática
 Nesse repositório, na pasta `site`, existe um exemplo de página, o [index2.html](https://github.com/Euak/treinamentoBootstrap/blob/master/site/index2.html), totalmente montado com base no Bootstrap. Como proposta de exercício, tente entender o código, principalmente as funções das classes, e tente replicá-lo alterando cores, número de imagens exibidas por linha e conteúdo.
+
+## Referências
+[Apostila "Desenvolvimento Web com HTML, CSS e Javascript" - Alura](https://www.caelum.com.br/download/caelum-html-css-javascript.pdf)
+[MDN Web Docs em português](https://developer.mozilla.org/pt-BR/)
+[W3Schools](https://www.w3schools.com/)
+[Site do Bootstrap em português](https://getbootstrap.com.br/)
